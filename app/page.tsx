@@ -151,7 +151,7 @@ export default function Home() {
           <li>
             {/* <Camera color="red" size={48} /> */}
             <Button className="bg-blue-600">
-              <Link href="https://github.com/r0ld3x/terabox-app">Source Code</Link>
+              <Link href="https://github.com/r0ld3x/terabox-app">Source code</Link>
             </Button>
           </li>
         </ul>
